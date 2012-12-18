@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
  
-main()
+int  main( void )
 {
    int c, first, last, middle, n, search, array[100];
  
