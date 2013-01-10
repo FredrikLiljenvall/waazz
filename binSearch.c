@@ -1,5 +1,8 @@
 #include <stdio.h>
  
+/**
+ * en kommentar är bra att ha
+ */
 int  main( void )
 {
    int c, first, last, middle, n, search, array[100];
