@@ -1,4 +1,4 @@
-void kalleBoll( int count )
+void olleBoll( int count )
 {
     // la la la la
 }
